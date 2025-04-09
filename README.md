@@ -1,5 +1,5 @@
 Pinto Coin Token (PTC)
-Meta Universe (PTC) is a decentralized token created to power futuristic and innovative digital projects.
+PTC is a decentralized token created to power futuristic and innovative digital projects.
 
 Token name: Pinto Coin
 Symbol: PTC
