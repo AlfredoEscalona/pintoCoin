@@ -1,0 +1,8 @@
+{
+  "name": "Pinto Coin",
+  "symbol": "PTC",
+  "address": "0xBa702C0Aa64eaa493D1Db8725e22F0A99697Dd72",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://github.com/AlfredoEscalona/pintoCoin/blob/main/logo.png"
+}
